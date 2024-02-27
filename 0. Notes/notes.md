@@ -18,7 +18,7 @@ We want to add the element `5` to our `ArrayList` only if it is not present. Thi
     - If the element is found, set a `boolean` to `true`.
     - If the element is not found, do nothing.
 - If the element is present somewhere, do nothing.
-- If the element was not present anywehere, add it to the `ArrayList`.
+- If the element was not present anywhere, add it to the `ArrayList`.
 
 Here is what this could look like from the `NotesInsert1.java` file:
 
